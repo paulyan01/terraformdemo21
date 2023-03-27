@@ -18,7 +18,7 @@ terraform {
     organization = "mobility-base-storage"
 
     workspaces {
-      name = "mobility-base-storage"
+      name = "Myfirstgithubrepository"
     }
   }
 }
